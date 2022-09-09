@@ -1,3 +1,5 @@
+- left images are actual screenshots of game and right images are made with unity
+
 <h1 align="center" >
   Game UI made in Unity
 </h1>
